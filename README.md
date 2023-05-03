@@ -23,6 +23,12 @@ Là một phần mềm quản lí đơn giản, người dùng có thể thống
 * [Java JDK 8+](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
 * [Eclipse IDE](https://www.eclipse.org/downloads/)
 
+## ==================== Lời nói đầu ==================
+Chi tiết về bài tập lớn: 
+* File báo cáo pdf và file jar đóng gói project cùng các tài nguyên cần thiết ở trong mục **Release**. 
+* Hướng dẫn cài đặt và chạy trò chơi được thực hiện ở bên dưới.
+
+
 ## =============== Hướng dẫn chạy trò chơi ===============
 ### Cách 1:Nếu máy bạn chỉ có jdk:
 -tải file Phan mem quan li sinh vien.jar rồi 
