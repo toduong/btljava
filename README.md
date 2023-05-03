@@ -8,7 +8,7 @@ Là một phần mềm quản lí đơn giản, người dùng có thể thống
 
 ![image](https://user-images.githubusercontent.com/115810437/235836524-709f1a0c-e05a-4635-91d0-9286ba2f9575.png)
 
-## Các chức nưang của phần mềm 
+## Các chức năng của phần mềm 
 * Tạo màn hình đăng nhập.(Tài khoản và tên đăng nhập là admin admin)
 * Add student.
 * Edit student.
